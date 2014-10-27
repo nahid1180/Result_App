@@ -1,0 +1,9 @@
+C:\Users\BITM-301-PC\Desktop\24-10-14\ResultApp\ResultApp\bin\Debug\ResultApp.exe.config
+C:\Users\BITM-301-PC\Desktop\24-10-14\ResultApp\ResultApp\obj\Debug\ResultApp.csprojResolveAssemblyReference.cache
+C:\Users\BITM-301-PC\Desktop\24-10-14\ResultApp\ResultApp\obj\Debug\ResultApp.GPAUI.resources
+C:\Users\BITM-301-PC\Desktop\24-10-14\ResultApp\ResultApp\obj\Debug\ResultApp.Properties.Resources.resources
+C:\Users\BITM-301-PC\Desktop\24-10-14\ResultApp\ResultApp\obj\Debug\ResultApp.csproj.GenerateResource.Cache
+C:\Users\BITM-301-PC\Desktop\24-10-14\ResultApp\ResultApp\bin\Debug\ResultApp.exe
+C:\Users\BITM-301-PC\Desktop\24-10-14\ResultApp\ResultApp\bin\Debug\ResultApp.pdb
+C:\Users\BITM-301-PC\Desktop\24-10-14\ResultApp\ResultApp\obj\Debug\ResultApp.exe
+C:\Users\BITM-301-PC\Desktop\24-10-14\ResultApp\ResultApp\obj\Debug\ResultApp.pdb
